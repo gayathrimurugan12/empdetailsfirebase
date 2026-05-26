@@ -373,7 +373,10 @@ public class DatabaseHelper extends SQLiteOpenHelper{
 
 ## OUTPUT
 
-<img width="483" height="1024" alt="d4e4c1db-75eb-4f1e-a585-d7f1e07610a9" src="https://github.com/user-attachments/assets/cc41e409-23bd-45a2-8d16-cdf03a645093" />
+<img width="298" height="628" alt="image" src="https://github.com/user-attachments/assets/801caa99-0585-4c15-8dae-812c07ff4768" />
+
+
+
 
 
 
